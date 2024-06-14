@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "185028321278",
+    "project_id": "arah-app",
+    "storage_bucket": "arah-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185028321278:android:a71d8e64cfcac7f0116aaf",
+        "android_client_info": {
+          "package_name": "com.arahglobal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185028321278-ensv3nr5ai06lngg3g9v748nicv5n3r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOraANdCC1iYWHjiorO-3BI1rjbJTUCdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185028321278-ensv3nr5ai06lngg3g9v748nicv5n3r5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185028321278-ikchk6gaui6qb5388spqkk5hvndfb1ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arahglobal.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
